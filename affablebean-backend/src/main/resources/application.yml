@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: affable-bean-backend
+  datasource:
+    url: jdbc:mysql://localhost:3306/affablebean
+    username: root
+  jpa:
+    hibernate:
+      ddl-auto: update
+server:
+  port: 8095

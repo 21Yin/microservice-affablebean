@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: affable-bean-ui
+
+
+  thymeleaf:
+    cache: false
+  graphql:
+    graphiql:
+      enabled: true
+
+    schema:
+      introspection:
+        enabled: true
+server:
+  port: 8080
