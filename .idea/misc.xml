@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/affable-bean-ui/pom.xml" />
         <option value="$PROJECT_DIR$/payment-gateway/pom.xml" />
         <option value="$PROJECT_DIR$/transportation-service/pom.xml" />
+        <option value="$PROJECT_DIR$/api-security/pom.xml" />
       </list>
     </option>
   </component>

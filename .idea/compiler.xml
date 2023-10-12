@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="transportation-service" />
         <module name="affablebean-backend" />
+        <module name="api-security" />
         <module name="payment-gateway" />
         <module name="affable-bean-ui" />
       </profile>
@@ -18,6 +19,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="affable-bean-ui" options="" />
       <module name="affablebean-backend" options="" />
+      <module name="api-security" options="" />
       <module name="payment-gateway" options="" />
       <module name="transportation-service" options="" />
     </option>
